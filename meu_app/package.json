@@ -1,0 +1,27 @@
+{
+  "name": "meu_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-load": "^1.1.15",
+    "express-namespace": "^0.1.1",
+    "express-session": "^1.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.10.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "pug": "^2.0.0-rc.1",
+    "socket.io": "^2.0.1"
+  }
+}
